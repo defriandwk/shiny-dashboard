@@ -1,0 +1,12 @@
+name: shiny-attrition
+title: shiny-attrition
+username:
+account: defriandwk
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3896709
+bundleId: 4420339
+url: https://defriandwk.shinyapps.io/shiny-attrition/
+when: 1617281107.15302
+asMultiple: FALSE
+asStatic: FALSE
